@@ -14,11 +14,21 @@ hero:
       link: /develop/latest/
 
 features:
-  - title: Feature AB
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature BC
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature CD
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Libraries
+    details: Include, share, and reuse useful NetherScript functions
+  - title: Variables
+    details: Store and retrieve data quickly and effectively
+  - title: Arithmetic Expressions
+    details: Quick and easy arithmetic expressions
+  - title: Simple Logic Flows
+    details: Convenient conditional code blocks
+  - title: Looping
+    details: Simple and accessible code looping
+  - title: Native MCFunction
+    details: Use and supercharge plain mcfunction commands
+  - title: Feature Definitions
+    details: Create custom advancements, loot tables, block tags, etc
+  - title: Compile-time Features
+    details: Compile-time features help you spend more time on your map
 ---
 
