@@ -13,7 +13,7 @@ export default defineConfig({
       {
         text: 'References',
         items: [
-          { text: 'Latest', link: '/develop/latest' }
+          { text: 'v0.1-mc1.21.11', link: '/reference/v0.1-mc1.21.11' }
         ]
       }
     ],
@@ -23,11 +23,15 @@ export default defineConfig({
         {
           text: 'Introduction',
           items: [
-            { text: 'What is NetherScript?', link: '/general/about' },
-            { text: 'Getting Started', link: '/general/getting_started' },
-            { text: 'Using the Compiler', link: '/general/usage' }
+            { text: 'What is NetherScript?', link: './about' },
+            { text: 'Getting Started', link: './getting_started' },
+            { text: 'Using the Compiler', link: './usage' }
           ]
         }
+      ],
+      '/reference/': [
+        { text: 'Using the Compiler', link: './usage' },
+        { text: 'Syntax', link: './syntax' }
       ]
     },
 

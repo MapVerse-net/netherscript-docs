@@ -9,9 +9,9 @@ hero:
     - theme: brand
       text: Introduction
       link: /general/about
-    - theme: alt
-      text: Develop
-      link: /develop/latest/
+    # - theme: alt
+    #   text: Develop
+    #   link: /develop/
 
 features:
   - title: Libraries
