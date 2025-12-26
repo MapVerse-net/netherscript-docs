@@ -9,7 +9,13 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Introduction', link: '/general/about' },
+      {
+        text: 'References',
+        items: [
+          { text: 'Latest', link: '/develop/latest' }
+        ]
+      }
     ],
 
     sidebar: {
@@ -18,7 +24,8 @@ export default defineConfig({
           text: 'Introduction',
           items: [
             { text: 'What is NetherScript?', link: '/general/about' },
-            { text: 'Getting Started', link: '/general/getting_started' }
+            { text: 'Getting Started', link: '/general/getting_started' },
+            { text: 'Using the Compiler', link: '/general/usage' }
           ]
         }
       ]

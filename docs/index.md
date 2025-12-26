@@ -11,7 +11,7 @@ hero:
       link: /general/about
     - theme: alt
       text: Develop
-      link: /develop/
+      link: /develop/latest/
 
 features:
   - title: Feature AB
