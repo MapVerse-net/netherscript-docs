@@ -1,6 +1,6 @@
 # Using the Compiler <Badge type="info" text="v0.1-mc1.21.11"/>
 
-You can use `compile.py` to automatically recompile the provided `.ntscript` file when it is saved with changes.
+You can use `compile.py` to automatically recompile the provided `.ntscript` file when it is saved with changes. The compiler will use the name of the input file as the title and namespace for the datapack.
 
 ## Windows
 
