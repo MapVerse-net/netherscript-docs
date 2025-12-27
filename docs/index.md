@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Introduction
-      link: /general/about
+      link: /guide/about
     # - theme: alt
     #   text: Develop
     #   link: /develop/
