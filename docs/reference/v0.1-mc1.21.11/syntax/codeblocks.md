@@ -8,7 +8,7 @@ The `define` codeblock is used to define various types of NetherScript and Minec
 
 ### Entity Selectors
 
-Entity selectors can be defined with two methods:
+Entity selectors can be defined with
 
 ```ntscript
 define @NAME = @FULL_SELECTOR
@@ -20,7 +20,7 @@ or
 define @NAME : @FULL_SELECTOR
 ```
 
-where `@NAME` represents a valid id prepended by an `@` symbol, and `@FULL_SELECTOR` is a valid Minecraft entity selector.
+where `@NAME` represents an `@` followed by a valid id, and `@FULL_SELECTOR` is a valid Minecraft entity selector.
 
 :::info Example
 ```ntscript
