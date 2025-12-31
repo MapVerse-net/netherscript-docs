@@ -1,12 +1,8 @@
-# Codeblocks
-
-A codeblock is anything which starts with a keyword (`define`, `clock`, `if`), and ends with an `end` key.
-
-## `define`
+# `define`
 
 The `define` codeblock is used to define various types of NetherScript and Minecraft data.
 
-### Entity Selectors
+## Entity Selectors
 
 Entity selectors can be defined with
 
@@ -27,3 +23,5 @@ where `@NAME` represents an `@` followed by a valid id, and `@FULL_SELECTOR` is 
 define @ExplodingCow : @e[type=cow,tag=exploding_cow]
 ```
 :::
+
+### `create`
