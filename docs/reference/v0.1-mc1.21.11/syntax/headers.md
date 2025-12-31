@@ -22,13 +22,13 @@ dir "C:\Users\Wiki\AppData\Roaming\.minecraft\saves\ExampleWorld"
 ```
 :::
 
-## `include` <Badge type="tip" text="optional" />
+## `import` <Badge type="tip" text="optional" />
 
-The `include` header is used to include NetherScript libraries (`.ntlib`) for reference in NetherScript. For a list of provided libraries, reference "Internal Libraries"
+The `import` header is used to import NetherScript libraries (`.ntlib`) for reference in NetherScript. For a list of provided libraries, reference "Internal Libraries"
 
 :::info Example
 ```ntscript
-include common
+import common
 ```
 :::
 
