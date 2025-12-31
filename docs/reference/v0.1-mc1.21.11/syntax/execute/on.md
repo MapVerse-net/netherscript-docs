@@ -10,4 +10,4 @@ on TARGET
 end
 ```
 
-The target can be any one of `attacker`, `controller`, `leasher`, `origin`, `owner`, `passengers`, `target`, `vehicle`. See this [minecraft.wiki](https://minecraft.wiki/w/Commands/execute#on) page for more details.
+The `TARGET` can be any one of `attacker`, `controller`, `leasher`, `origin`, `owner`, `passengers`, `target`, `vehicle`. See this [minecraft.wiki](https://minecraft.wiki/w/Commands/execute#on) page for more details.
