@@ -5,12 +5,12 @@
 ## Usage
 
 ```ntscript
-if CONDITIONS
+if CONDITION
     ...
 end
 ```
 ```
-unless CONDITIONS
+unless CONDITION
     ...
 end
 ```
