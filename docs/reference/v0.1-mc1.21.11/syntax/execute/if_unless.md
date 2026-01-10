@@ -9,7 +9,7 @@ if CONDITION
     ...
 end
 ```
-```
+```ntscript
 unless CONDITION
     ...
 end
